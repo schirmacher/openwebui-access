@@ -1,0 +1,22 @@
+[project]
+name = "openwebui-access"
+version = "1.0.0"
+authors = [
+  { name="Arne Schirmacher", email="arne@schirmacher.de" },
+]
+description = "Open WebUI Access Python Library. See https://github.com/schirmacher/openwebui-access for a tutorial."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "GPL-3.0-or-later"
+license-files = ["LICEN[CS]E*"]
+dependencies = [
+    "requests>=2.32.4"
+]
+
+[project.urls]
+Homepage = "https://github.com/schirmacher/openwebui-access"
+Issues = "https://github.com/schirmacher/openwebui-access/issues"

@@ -1,0 +1,4 @@
+openwebui-access
+Pillow
+python-docx
+reportlab
